@@ -6,3 +6,4 @@ Updating the Dev Environment with remote changes for Alice
 Pulling with Conflicts
 Pulling Changes
 Interactive Rebase
+Add more text to Alice
